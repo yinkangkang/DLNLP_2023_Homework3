@@ -1,0 +1,260 @@
+D:\anaconda3\envs\NLP_homework\python.exe D:\NLP\DLNLP_2023_Homework3\LDA.py 
+14:59:06 Iteration:  0  Completed  Perplexity:  9119.642408985992
+14:59:10 Iteration:  1  Completed  Perplexity:  9053.46543700293
+14:59:14 Iteration:  2  Completed  Perplexity:  8973.864167450494
+14:59:19 Iteration:  3  Completed  Perplexity:  8879.486483704592
+14:59:23 Iteration:  4  Completed  Perplexity:  8773.473913636955
+14:59:28 Iteration:  5  Completed  Perplexity:  8663.086097508562
+14:59:32 Iteration:  6  Completed  Perplexity:  8555.931261490641
+14:59:36 Iteration:  7  Completed  Perplexity:  8457.710401938952
+14:59:40 Iteration:  8  Completed  Perplexity:  8369.784227256787
+14:59:44 Iteration:  9  Completed  Perplexity:  8288.501239721125
+14:59:48 Iteration:  10  Completed  Perplexity:  8226.051171436315
+14:59:53 Iteration:  11  Completed  Perplexity:  8168.281606604409
+14:59:57 Iteration:  12  Completed  Perplexity:  8121.465760689323
+15:00:01 Iteration:  13  Completed  Perplexity:  8083.041416295086
+15:00:05 Iteration:  14  Completed  Perplexity:  8052.17562601185
+15:00:09 Iteration:  15  Completed  Perplexity:  8028.26293323312
+15:00:13 Iteration:  16  Completed  Perplexity:  8009.190543318338
+15:00:17 Iteration:  17  Completed  Perplexity:  7992.059036747983
+15:00:22 Iteration:  18  Completed  Perplexity:  7978.107332997765
+15:00:26 Iteration:  19  Completed  Perplexity:  7967.128710013832
+15:00:30 Iteration:  20  Completed  Perplexity:  7956.363123416461
+15:00:34 Iteration:  21  Completed  Perplexity:  7947.960068185842
+15:00:38 Iteration:  22  Completed  Perplexity:  7937.847422659243
+15:00:42 Iteration:  23  Completed  Perplexity:  7932.05364268602
+15:00:46 Iteration:  24  Completed  Perplexity:  7926.867131332314
+15:00:50 Iteration:  25  Completed  Perplexity:  7921.074114894853
+15:00:54 Iteration:  26  Completed  Perplexity:  7916.293661512356
+15:00:59 Iteration:  27  Completed  Perplexity:  7912.028499784207
+15:01:03 Iteration:  28  Completed  Perplexity:  7910.043101033748
+15:01:07 Iteration:  29  Completed  Perplexity:  7906.6950674800655
+15:01:11 Iteration:  30  Completed  Perplexity:  7903.903626968355
+15:01:15 Iteration:  31  Completed  Perplexity:  7902.025682365243
+15:01:19 Iteration:  32  Completed  Perplexity:  7900.542247769126
+15:01:23 Iteration:  33  Completed  Perplexity:  7897.807296009383
+15:01:27 Iteration:  34  Completed  Perplexity:  7897.155060180755
+15:01:32 Iteration:  35  Completed  Perplexity:  7896.093090682577
+15:01:36 Iteration:  36  Completed  Perplexity:  7894.970135834421
+15:01:41 Iteration:  37  Completed  Perplexity:  7893.638915109817
+15:01:45 Iteration:  38  Completed  Perplexity:  7891.798759606634
+15:01:50 Iteration:  39  Completed  Perplexity:  7891.216496180186
+15:01:54 Iteration:  40  Completed  Perplexity:  7889.898287727245
+15:01:59 Iteration:  41  Completed  Perplexity:  7889.080571006248
+15:02:03 Iteration:  42  Completed  Perplexity:  7889.780207516683
+15:02:07 Iteration:  43  Completed  Perplexity:  7888.964104484152
+15:02:11 Iteration:  44  Completed  Perplexity:  7888.214675013437
+15:02:15 Iteration:  45  Completed  Perplexity:  7886.8458002257685
+15:02:19 Iteration:  46  Completed  Perplexity:  7886.31469213715
+15:02:23 Iteration:  47  Completed  Perplexity:  7886.377764176381
+15:02:27 Iteration:  48  Completed  Perplexity:  7886.590493795061
+15:02:31 Iteration:  49  Completed  Perplexity:  7886.134344137839
+15:02:36 Iteration:  50  Completed  Perplexity:  7885.3545375541025
+15:02:40 Iteration:  51  Completed  Perplexity:  7884.902834099421
+15:02:44 Iteration:  52  Completed  Perplexity:  7884.766965749053
+15:02:49 Iteration:  53  Completed  Perplexity:  7884.80312980146
+15:02:53 Iteration:  54  Completed  Perplexity:  7884.630990409388
+15:02:57 Iteration:  55  Completed  Perplexity:  7885.18106681783
+15:03:01 Iteration:  56  Completed  Perplexity:  7884.983385324235
+15:03:05 Iteration:  57  Completed  Perplexity:  7884.57184817596
+15:03:10 Iteration:  58  Completed  Perplexity:  7884.4492210931685
+15:03:14 Iteration:  59  Completed  Perplexity:  7884.467955228507
+15:03:18 Iteration:  60  Completed  Perplexity:  7885.065745441154
+15:03:22 Iteration:  61  Completed  Perplexity:  7884.58104809334
+15:03:26 Iteration:  62  Completed  Perplexity:  7885.161377526696
+15:03:30 Iteration:  63  Completed  Perplexity:  7884.713848238903
+15:03:35 Iteration:  64  Completed  Perplexity:  7885.353448461346
+15:03:39 Iteration:  65  Completed  Perplexity:  7885.3640387043315
+15:03:43 Iteration:  66  Completed  Perplexity:  7885.197704589232
+15:03:47 Iteration:  67  Completed  Perplexity:  7884.588415819187
+15:03:52 Iteration:  68  Completed  Perplexity:  7884.351071223799
+15:03:56 Iteration:  69  Completed  Perplexity:  7884.873949015282
+15:04:01 Iteration:  70  Completed  Perplexity:  7884.606703785139
+15:04:05 Iteration:  71  Completed  Perplexity:  7885.674927742955
+15:04:09 Iteration:  72  Completed  Perplexity:  7884.640861164575
+15:04:13 Iteration:  73  Completed  Perplexity:  7885.4720574994635
+15:04:17 Iteration:  74  Completed  Perplexity:  7885.615008464495
+15:04:22 Iteration:  75  Completed  Perplexity:  7885.297194058512
+15:04:26 Iteration:  76  Completed  Perplexity:  7885.471257060459
+15:04:30 Iteration:  77  Completed  Perplexity:  7885.403032959012
+15:04:34 Iteration:  78  Completed  Perplexity:  7885.17264354239
+15:04:39 Iteration:  79  Completed  Perplexity:  7886.242756980336
+15:04:43 Iteration:  80  Completed  Perplexity:  7885.6221930053825
+15:04:47 Iteration:  81  Completed  Perplexity:  7885.932653495746
+15:04:52 Iteration:  82  Completed  Perplexity:  7886.536650608847
+15:04:56 Iteration:  83  Completed  Perplexity:  7886.941938107812
+15:05:00 Iteration:  84  Completed  Perplexity:  7886.903635570961
+15:05:04 Iteration:  85  Completed  Perplexity:  7887.763934065058
+15:05:08 Iteration:  86  Completed  Perplexity:  7887.633404613912
+15:05:12 Iteration:  87  Completed  Perplexity:  7888.100589263989
+15:05:17 Iteration:  88  Completed  Perplexity:  7888.056419636797
+15:05:21 Iteration:  89  Completed  Perplexity:  7887.889863149747
+15:05:25 Iteration:  90  Completed  Perplexity:  7888.1494059201905
+15:05:29 Iteration:  91  Completed  Perplexity:  7888.307874612781
+15:05:33 Iteration:  92  Completed  Perplexity:  7888.507209466649
+15:05:37 Iteration:  93  Completed  Perplexity:  7888.950936817407
+15:05:42 Iteration:  94  Completed  Perplexity:  7888.801791781384
+15:05:46 Iteration:  95  Completed  Perplexity:  7889.081233909858
+15:05:50 Iteration:  96  Completed  Perplexity:  7889.250110165047
+15:05:54 Iteration:  97  Completed  Perplexity:  7889.909670597772
+15:05:58 Iteration:  98  Completed  Perplexity:  7889.04507220924
+15:06:02 Iteration:  99  Completed  Perplexity:  7889.104231451167
+15:06:06 Iteration:  100  Completed  Perplexity:  7889.3623855866235
+15:06:11 Iteration:  101  Completed  Perplexity:  7889.643430288283
+15:06:15 Iteration:  102  Completed  Perplexity:  7889.852166362512
+15:06:19 Iteration:  103  Completed  Perplexity:  7889.576097474804
+15:06:23 Iteration:  104  Completed  Perplexity:  7888.575842594038
+15:06:27 Iteration:  105  Completed  Perplexity:  7888.382563728015
+15:06:31 Iteration:  106  Completed  Perplexity:  7889.298373483902
+15:06:36 Iteration:  107  Completed  Perplexity:  7889.25435525069
+15:06:40 Iteration:  108  Completed  Perplexity:  7889.186300750836
+15:06:44 Iteration:  109  Completed  Perplexity:  7889.755732218933
+15:06:48 Iteration:  110  Completed  Perplexity:  7889.231780278457
+15:06:52 Iteration:  111  Completed  Perplexity:  7890.055944272827
+15:06:56 Iteration:  112  Completed  Perplexity:  7890.263432613498
+15:07:00 Iteration:  113  Completed  Perplexity:  7889.92043883812
+15:07:04 Iteration:  114  Completed  Perplexity:  7890.071256834696
+15:07:08 Iteration:  115  Completed  Perplexity:  7890.043463926142
+15:07:12 Iteration:  116  Completed  Perplexity:  7890.231747184269
+15:07:16 Iteration:  117  Completed  Perplexity:  7890.717888156697
+15:07:20 Iteration:  118  Completed  Perplexity:  7890.416781386259
+15:07:25 Iteration:  119  Completed  Perplexity:  7890.705603860397
+15:07:29 Iteration:  120  Completed  Perplexity:  7890.304907389188
+15:07:33 Iteration:  121  Completed  Perplexity:  7890.879727551491
+15:07:37 Iteration:  122  Completed  Perplexity:  7890.816589070953
+15:07:41 Iteration:  123  Completed  Perplexity:  7891.767719819773
+15:07:45 Iteration:  124  Completed  Perplexity:  7891.755958218659
+15:07:49 Iteration:  125  Completed  Perplexity:  7891.7546680916785
+15:07:53 Iteration:  126  Completed  Perplexity:  7891.963686647977
+15:07:57 Iteration:  127  Completed  Perplexity:  7891.6139742964915
+15:08:01 Iteration:  128  Completed  Perplexity:  7892.139217217777
+15:08:05 Iteration:  129  Completed  Perplexity:  7891.82422624234
+15:08:09 Iteration:  130  Completed  Perplexity:  7892.691595950799
+15:08:13 Iteration:  131  Completed  Perplexity:  7892.679047064119
+15:08:17 Iteration:  132  Completed  Perplexity:  7892.500021913691
+15:08:22 Iteration:  133  Completed  Perplexity:  7892.4147335121825
+15:08:26 Iteration:  134  Completed  Perplexity:  7892.756744461526
+15:08:30 Iteration:  135  Completed  Perplexity:  7892.650656308102
+15:08:34 Iteration:  136  Completed  Perplexity:  7893.238857474988
+15:08:38 Iteration:  137  Completed  Perplexity:  7892.845039665852
+15:08:42 Iteration:  138  Completed  Perplexity:  7892.684435846181
+15:08:46 Iteration:  139  Completed  Perplexity:  7892.648817406603
+15:08:50 Iteration:  140  Completed  Perplexity:  7893.192343668197
+15:08:54 Iteration:  141  Completed  Perplexity:  7893.370871930745
+15:08:58 Iteration:  142  Completed  Perplexity:  7893.370389388509
+15:09:02 Iteration:  143  Completed  Perplexity:  7893.260486753696
+15:09:07 Iteration:  144  Completed  Perplexity:  7893.817902163696
+15:09:11 Iteration:  145  Completed  Perplexity:  7893.830701988605
+15:09:15 Iteration:  146  Completed  Perplexity:  7894.238207774812
+15:09:19 Iteration:  147  Completed  Perplexity:  7894.5070120596965
+15:09:23 Iteration:  148  Completed  Perplexity:  7893.771215293413
+15:09:27 Iteration:  149  Completed  Perplexity:  7894.346844792423
+15:09:31 Iteration:  150  Completed  Perplexity:  7894.38099979363
+15:09:35 Iteration:  151  Completed  Perplexity:  7894.187917209304
+15:09:39 Iteration:  152  Completed  Perplexity:  7895.096894380512
+15:09:43 Iteration:  153  Completed  Perplexity:  7894.773313397031
+15:09:47 Iteration:  154  Completed  Perplexity:  7895.118072999239
+15:09:51 Iteration:  155  Completed  Perplexity:  7895.331162459836
+15:09:55 Iteration:  156  Completed  Perplexity:  7895.325656584423
+15:09:59 Iteration:  157  Completed  Perplexity:  7895.449724697193
+15:10:03 Iteration:  158  Completed  Perplexity:  7894.844922537078
+15:10:08 Iteration:  159  Completed  Perplexity:  7895.181951558542
+15:10:12 Iteration:  160  Completed  Perplexity:  7895.8327242099485
+15:10:16 Iteration:  161  Completed  Perplexity:  7895.126756052041
+15:10:20 Iteration:  162  Completed  Perplexity:  7894.945397814313
+15:10:24 Iteration:  163  Completed  Perplexity:  7894.974572091348
+15:10:28 Iteration:  164  Completed  Perplexity:  7895.487343285588
+15:10:32 Iteration:  165  Completed  Perplexity:  7895.26712163133
+15:10:36 Iteration:  166  Completed  Perplexity:  7895.958419994125
+15:10:40 Iteration:  167  Completed  Perplexity:  7896.333896763295
+15:10:44 Iteration:  168  Completed  Perplexity:  7896.210222911625
+15:10:48 Iteration:  169  Completed  Perplexity:  7896.834697379972
+15:10:52 Iteration:  170  Completed  Perplexity:  7896.299159650734
+15:10:56 Iteration:  171  Completed  Perplexity:  7897.237416940433
+15:11:00 Iteration:  172  Completed  Perplexity:  7896.238645985511
+15:11:04 Iteration:  173  Completed  Perplexity:  7895.706355383423
+15:11:08 Iteration:  174  Completed  Perplexity:  7896.366910777601
+15:11:12 Iteration:  175  Completed  Perplexity:  7896.3468388088595
+15:11:17 Iteration:  176  Completed  Perplexity:  7895.945003139311
+15:11:21 Iteration:  177  Completed  Perplexity:  7896.345564706987
+15:11:26 Iteration:  178  Completed  Perplexity:  7897.094294911156
+15:11:30 Iteration:  179  Completed  Perplexity:  7896.445528812696
+15:11:34 Iteration:  180  Completed  Perplexity:  7896.34375002911
+15:11:38 Iteration:  181  Completed  Perplexity:  7896.705173970504
+15:11:42 Iteration:  182  Completed  Perplexity:  7896.817721639046
+15:11:46 Iteration:  183  Completed  Perplexity:  7897.046997966884
+15:11:50 Iteration:  184  Completed  Perplexity:  7896.689779119554
+15:11:54 Iteration:  185  Completed  Perplexity:  7896.964227587715
+15:11:58 Iteration:  186  Completed  Perplexity:  7896.943900294282
+15:12:03 Iteration:  187  Completed  Perplexity:  7897.359914196286
+15:12:07 Iteration:  188  Completed  Perplexity:  7897.01650871725
+15:12:11 Iteration:  189  Completed  Perplexity:  7897.207985568912
+15:12:15 Iteration:  190  Completed  Perplexity:  7897.422635842736
+15:12:19 Iteration:  191  Completed  Perplexity:  7897.742959323233
+15:12:23 Iteration:  192  Completed  Perplexity:  7897.3259150311005
+15:12:27 Iteration:  193  Completed  Perplexity:  7896.957646773975
+15:12:31 Iteration:  194  Completed  Perplexity:  7897.289632210662
+15:12:35 Iteration:  195  Completed  Perplexity:  7897.459623388912
+15:12:39 Iteration:  196  Completed  Perplexity:  7897.692141211736
+15:12:43 Iteration:  197  Completed  Perplexity:  7897.408697764751
+15:12:47 Iteration:  198  Completed  Perplexity:  7897.949213496824
+15:12:52 Iteration:  199  Completed  Perplexity:  7898.325425881595
+主题0的高频词为：
+石破天:0.000719	道:0.000559	孩子:0.000551	不知:0.000496	没:0.000454	知道:0.000454	想:0.000395	说:0.000383	武林中:0.000328	这位:0.000320	
+-------------------------
+主题1的高频词为：
+心中:0.000723	爹爹:0.000694	见:0.000673	一个:0.000673	两人:0.000589	突然:0.000559	快:0.000475	两个:0.000454	伸手:0.000416	站:0.000416	
+-------------------------
+主题2的高频词为：
+中:0.001051	众人:0.000820	死:0.000454	住:0.000433	大叫:0.000425	下去:0.000366	有人:0.000324	出:0.000307	话:0.000294	周伯通:0.000265	
+-------------------------
+主题3的高频词为：
+著:0.000790	麽:0.000774	李文秀:0.000669	走:0.000664	老人:0.000589	汉子:0.000580	没:0.000509	说:0.000496	只见:0.000479	师父:0.000467	
+-------------------------
+主题4的高频词为：
+道:0.001333	袁承志:0.001030	青青:0.000467	知道:0.000408	问:0.000400	不能:0.000349	生死:0.000320	徐天宏:0.000311	话:0.000311	罢:0.000307	
+-------------------------
+主题5的高频词为：
+ :0.003031	道:0.001829	麽:0.000837	杨过:0.000711	甚:0.000669	郭靖:0.000664	便:0.000471	夫妇:0.000458	武功:0.000454	说:0.000416	
+-------------------------
+主题6的高频词为：
+道:0.001698	听:0.001631	说:0.000841	弟子:0.000816	师父:0.000807	说道:0.000706	便是:0.000488	当下:0.000458	派:0.000412	和尚:0.000408	
+-------------------------
+主题7的高频词为：
+一个:0.001442	一声:0.001009	见:0.000803	中:0.000782	听:0.000563	声音:0.000534	喝道:0.000530	之间:0.000471	过去:0.000446	地下:0.000429	
+-------------------------
+主题8的高频词为：
+杀:0.000740	道:0.000673	范蠡:0.000605	少女:0.000530	姑娘:0.000433	吴士:0.000328	一个:0.000315	请:0.000311	国剑士:0.000303	剑术:0.000290	
+-------------------------
+主题9的高频词为：
+便:0.002220	二人:0.001009	中:0.000744	心想:0.000669	身上:0.000521	内力:0.000429	心下:0.000425	听:0.000387	酒:0.000370	之极:0.000366	
+-------------------------
+主题10的高频词为：
+便:0.001476	令狐冲:0.001370	中:0.000677	派:0.000664	虚竹:0.000639	跟着:0.000433	会:0.000404	之后:0.000404	主人:0.000391	听:0.000299	
+-------------------------
+主题11的高频词为：
+张无忌:0.000891	左手:0.000753	右手:0.000664	兵刃:0.000479	今日:0.000446	抢:0.000446	手中:0.000421	兄弟:0.000391	曹云奇:0.000374	陶子安:0.000341	
+-------------------------
+主题12的高频词为：
+道:0.000959	勾践:0.000669	范蠡:0.000542	曰:0.000479	小人:0.000475	吴国:0.000421	一名:0.000370	薛烛:0.000370	风:0.000353	文种:0.000311	
+-------------------------
+主题13的高频词为：
+剑:0.000807	便:0.000681	狄云:0.000597	之中:0.000370	只见:0.000345	回来:0.000341	一只:0.000315	眼前:0.000303	中:0.000286	却是:0.000269	
+-------------------------
+主题14的高频词为：
+道:0.003245	韦小宝:0.001518	说:0.000988	笑:0.000690	做:0.000656	问道:0.000450	皇帝:0.000437	说道:0.000437	知道:0.000433	倒:0.000416	
+-------------------------
+主题15的高频词为：
+道:0.002497	说:0.001480	说道:0.000790	请:0.000723	事:0.000656	武功:0.000652	不可:0.000622	没:0.000513	瞧:0.000458	朋友:0.000454	
+-------------------------
+主题16的高频词为：
+见:0.000786	长剑:0.000690	说道:0.000610	剑士:0.000593	一声:0.000572	不敢:0.000517	一人:0.000471	眼见:0.000458	两名:0.000400	帮:0.000383	
+-------------------------
+主题17的高频词为：
+道:0.001715	陈家洛:0.000719	萧中慧:0.000488	英雄:0.000404	卓天雄:0.000366	吴三桂:0.000345	侍卫:0.000341	众:0.000336	出:0.000324	群雄:0.000315	
+-------------------------
+主题18的高频词为：
+道:0.001513	教主:0.001017	兄弟:0.000542	不知:0.000500	岳不群:0.000492	杀:0.000442	说:0.000412	少年:0.000395	说道:0.000378	起来:0.000378	
+-------------------------
+主题19的高频词为：
+想:0.000782	武功:0.000626	剑法:0.000475	竟:0.000425	见:0.000421	身子:0.000400	时:0.000395	掷:0.000395	长剑:0.000391	点:0.000378	

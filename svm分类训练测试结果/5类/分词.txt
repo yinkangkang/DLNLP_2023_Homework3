@@ -1,0 +1,11 @@
+overall accuracy:0.793750
+----------------------
+accuracy for each class: [0.81818182 0.83333333 0.7755102  0.70588235 0.80645161]
+----------------------
+average accuracy:0.787872
+
+overall accuracy:0.625000
+----------------------
+accuracy for each class: [0.85714286 1.         0.36842105 1.         0.6       ]
+----------------------
+average accuracy:0.765113
